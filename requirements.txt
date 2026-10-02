@@ -1,0 +1,5 @@
+scratchattach
+fastapi
+uvicorn
+requests
+beautifulsoup4
